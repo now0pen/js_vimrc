@@ -1,0 +1,4 @@
+git add .
+git commit -m 'comment'
+git remote add origin https://github.com/now0pen/js_vimrc.git
+git push -u origin master
